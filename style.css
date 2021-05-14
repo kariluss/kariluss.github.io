@@ -1,9 +1,14 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
 
 #EUU {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
+    position: fixed;
     border-radius: 20%;
+    left: 30px;
+    top: 80px;
 }
 
 .bloco { 
